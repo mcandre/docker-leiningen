@@ -19,6 +19,7 @@ Leiningen 2.5.2 on Java 1.8.0_45 Java HotSpot(TM) 64-Bit Server VM
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
